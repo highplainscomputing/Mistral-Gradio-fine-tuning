@@ -1,0 +1,13 @@
+langchain-community==0.0.28
+langchain==0.1.12
+transformers==4.39.1
+sentence-transformers==2.6.0
+torch==2.2.1
+datasets==2.18.0
+pypdf==4.1.0
+tqdm==4.66.2
+faiss-gpu==1.7.2
+gradio==4.22.0
+ipywidgets==7.7.1
+bitsandbytes==0.40.2
+trl==0.4.7
